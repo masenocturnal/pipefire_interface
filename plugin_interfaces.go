@@ -1,4 +1,4 @@
-package pipfire_interface
+package pipefire_interface
 
 import (
     "fmt"
